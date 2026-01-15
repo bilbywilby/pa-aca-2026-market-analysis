@@ -1,0 +1,26 @@
+Rating Area 9 covers the Central-South and Northern Tier counties, including Cumberland, Dauphin, Franklin, Fulton, Juniata, Lebanon, Perry, and several northern counties like Bradford, Lycoming, Sullivan, Susquehanna, Tioga, and Wayne.
+In this region, the 2026 market is defined by strong competition between Capital Blue Cross and Highmark, along with one of the most stable pricing options in the state through Geisinger.
+🏥 2026 Carrier Breakdown: Rating Area 9
+The finalized rates for Rating Area 9 show a wide spread, with some carriers significantly outstripping the 21.5% statewide average.
+| Carrier | Primary Plan Type | Approved Increase |
+|---|---|---|
+| Capital Advantage Assurance | PPO | 24.6% |
+| Keystone Health Plan Central | HMO | 22.4% |
+| Highmark Inc. | PPO | 17.7% |
+| Highmark Benefits Group | PPO | 18.4% |
+| Geisinger Health Plan | HMO | 11.6% |
+| UnitedHealthcare of PA | HMO/EPO | 12.6% |
+| UPMC Health Options | HMO | 20.2% |
+| Ambetter (Centene) | HMO | 37.8% |
+🔍 Key Regional Insights for Area 9
+ * Capital vs. Geisinger Spread: There is a massive 13% gap between the increase for Capital Advantage (24.6%) and Geisinger Health Plan (11.6%). Because the lower-priced plan sets the "Benchmark" for tax credits, those staying with Capital may see a much larger jump in their actual monthly bill than the percentage suggests. ⚖️
+ * The "Northern Tier" Challenge: In counties like Bradford or Tioga, provider networks are often smaller. Carriers like Ambetter (37.8% hike) have cited "worsening morbidity"—a sicker population—as the reason for their high rates, which can lead to even tighter network controls in rural areas. 🗺️
+ * Harrisburg/Cumberland Hub: For the more metropolitan parts of Area 9 (Dauphin/Cumberland), Highmark and Capital are the primary choices. Highmark's 17.7% increase is more moderate than Capital's, potentially making it a "sweet spot" for those looking to balance network size with cost. 🏥
+🛠️ Strategic Protocols for Area 9
+ * "Allowed Amount" Verification: Since Area 9 includes high-cost medical hubs like Harrisburg and Williamsport, use the Forensic Pricing Service benchmarks to ensure your 2026 plan's "Allowed Amounts" for common procedures remain contractually compliant. 💰
+ * Subsidy Cliff Audit: Many middle-income families in the Cumberland Valley will lose their Enhanced Premium Tax Credits (EPTC) entirely in 2026. This turns a 24% rate hike into a situation where a family could be paying thousands more per year. 💸
+ * Pharmacy Exception Logic: With specialty drug costs rising, Area 9 carriers are enforcing strict Step Therapy. If you are on a high-cost drug, you must document that cheaper alternatives "failed" before the insurer will cover the brand-name medication. 💊
+Given that Rating Area 9 spans from the Maryland border to New York, where should we focus to secure your 2026 plan?
+ * Net Premium Calculator: See how much your monthly payment will actually rise based on your age and income. 🧮
+ * Network Tier Check: Verify which plans cover Penn State Health (Milton S. Hershey Medical Center) or UPMC Central PA as "Tier 1." 🏥
+ * Pharmacy Tier Audit: Check if your specific maintenance medications have shifted into more expensive cost-sharing tiers. 💊

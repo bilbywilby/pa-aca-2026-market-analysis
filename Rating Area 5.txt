@@ -1,0 +1,25 @@
+Rating Area 5 encompasses a wide stretch of Central and West-Central Pennsylvania, covering counties such as Bedford, Blair, Cambria, Clearfield, Huntingdon, Jefferson, and Somerset.
+In this region, the 2026 market is defined by a heavy reliance on local health systems—particularly Geisinger and UPMC—and some of the most dramatic "morbidity-driven" rate hikes in the state.
+🏥 2026 Carrier Breakdown: Rating Area 5
+The finalized rates for Rating Area 5 show a significant spread between regional anchors and carriers facing higher risk pools.
+| Carrier | Primary Plan Type | Approved Increase |
+|---|---|---|
+| Geisinger Health Plan | HMO | 11.6% |
+| Geisinger Quality Options | HMO | 13.8% |
+| Highmark Inc. | PPO | 17.7% |
+| UPMC Health Options | HMO | 20.2% |
+| UPMC Health Plan | HMO | 24.8% |
+| UnitedHealthcare of PA | HMO/EPO | 12.6% |
+| Ambetter (Centene) | HMO | 37.8% |
+🔍 Key Regional Insights for Area 5
+ * Morbidity & Risk Spikes: UPMC's approval for 24.8% (higher than their initial 16.3% request) was largely due to "worsening morbidity" in this specific region. This means the people staying in these plans are utilizing more expensive care, driving costs up for everyone remaining in the pool. 📈
+ * The "Stability" Factor: Geisinger’s 11.6% increase is nearly half the state average of 21.5%, making it the most stable pricing option for residents in Blair, Cambria, and Clearfield counties who have access to Geisinger facilities. 🏥
+ * The Subsidy Cliff: Area 5 has a high concentration of households that fall into the "middle-income gap." For these residents, the expiration of the Enhanced Premium Tax Credits (EPTC) means they are no longer capped at 8.5% of their income, which can turn a 20% rate increase into a 100% hike in actual monthly payments. 💸
+🛠️ Strategic Protocols for Area 5
+ * Facility Alignment: Because this area is a battleground between Geisinger, UPMC, and Highmark/AHN, your "Tier 1" access is restricted. If you live in Somerset but see doctors in Johnstown (Cambria) or Altoona (Blair), you must verify that your plan covers those specific health systems as "In-Network." 🗺️
+ * Benchmark Plan Shift: With Geisinger and UnitedHealthcare offering lower increases, the "Second Lowest Cost Silver Plan" (the benchmark for subsidies) will likely shift. If you are on a UPMC or Highmark plan, your subsidy might not cover as much of the premium as it did last year. 🧮
+ * Outpatient Utilization Scrutiny: Carriers in Area 5 are focusing on "Medical Necessity" for outpatient services to combat rising costs. If you have a chronic condition, use the Clinical Appeal Framework to ensure your diagnostic tests aren't denied under new, stricter 2026 protocols. 📋
+Given these shifts in Central PA, where should we focus to protect your budget?
+ * Subsidy Calculation: See how the EPTC expiration and the new lower-cost benchmarks change your monthly bill. 🧮
+ * Network Cross-Check: Verify which plans cover the major hospitals in Johnstown, Altoona, or State College as "Tier 1." 🏥
+ * Pharmacy & Step Therapy: Check if your carrier has added new "clinical failure" requirements for high-cost medications for 2026. 💊
