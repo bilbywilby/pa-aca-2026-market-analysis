@@ -1,0 +1,44 @@
+﻿Technical Audit: Demonic Gorilla Plugin
+1. Architectural Integrity & Thread Safety
+* Snapshot Pattern: (Verified) The use of GorillaSnapshot effectively isolates the AWT thread from the Game thread. This prevents ConcurrentModificationException during high-density NPC updates.
+* Service Decoupling: (Verified) GorillaTracker acts as a singleton source of truth. Logic is successfully extracted from the Plugin class.
+* Critical Risk: The lastSnapshots list is marked volatile, which ensures visibility but not atomicity. However, since it is replaced entirely in onClientTick and only read in render, this is acceptable for this use case.
+2. RuneLite API Compliance Audit
+* Deterministic Logic: (Pass) The removal of Math.random() in favor of "Mage/Range" labels meets the "no-RNG/no-psychic" rule of the Plugin Hub.
+* Tick Synchronicity: (Pass) Animation and hitsplat processing are correctly mapped to onAnimationChanged and onHitsplatApplied.
+* Boulder Tracking: (Observation) The use of GameObjectSpawned for ID 26644 is the correct hook.
+* Gap: Missing OverlayPriority. To ensure the prayer bar is not occluded by other plugins, add setPriority(OverlayPriority.HIGH) to GorillaOverlay.
+3. Performance & GC Pressure
+* Object Allocation:
+   * onClientTick: Generates a new ArrayList and GorillaSnapshot objects every ~600ms. For 1-4 NPCs, the GC impact is negligible.
+   * render: Uses g.setFont(barFont) and g.getFontMetrics(barFont) correctly by caching the Font object.
+* Optimization Strategy: To further reduce pressure, pre-allocate a fixed-size array for GorillaSnapshot if the NPC count is known to be small (max 4 in most encounters).
+4. Logic & Edge Case Validation
+* Phase Transition: Current logic resets damage on animation 7197.
+   * Edge Case: If a player deals 50+ damage in the same tick the Gorilla attacks, the Gorilla may switch prayer and style simultaneously. The current FSM handles this sequentially, which is correct.
+* Multi-Gorilla Scenarios: The ConcurrentHashMap in GorillaTracker safely handles multiple NPCs, but onNpcDespawned is the only cleanup trigger.
+   * Risk: If a player teleports away, onNpcDespawned may not trigger for all entities.
+   * Fix: Add an onGameStateChanged listener to tracker.clear() on LOADING or HOPPING.
+5. UI/UX Fidelity
+* Interpolation: The interpolateColor logic (Green → Orange → Red) is mathematically sound.
+* Scaling: (Missing) The overlay uses fixed pixel offsets.
+   * Real-World Application: Users with 4K monitors or high zoom levels will find the 64px bar too small.
+   * Recommendation: Multiply width and height by a scale factor derived from client.get3dZoom().
+6. Audit Summary & Action Plan
+Category
+	Status
+	Required Action
+	Thread Safety
+	Secure
+	None.
+	Compliance
+	High
+	Ensure no "Advice" text is used (e.g., "Switch Now!").
+	Performance
+	Optimized
+	Add onGameStateChanged cleanup.
+	UI
+	Functional
+	Implement zoom-based scaling.
+	Final Conclusion
+The codebase is 95% production-ready. The remaining 5% consists of environmental cleanup (GameStateChanged) and UI scaling for high-resolution displays.
