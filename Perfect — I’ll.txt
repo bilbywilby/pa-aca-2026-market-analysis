@@ -1,0 +1,217 @@
+Perfect — I’ll turn this into a clean, human-readable blog article and also flag what’s missing so you can see where the data gaps are.
+
+
+---
+
+Pennsylvania ACA 2026 Rate Increases by Rating Area
+
+A consumer-friendly breakdown of what’s coming next year
+
+Pennsylvania’s Department of Insurance has approved premium increases for 2026 ACA marketplace plans. These increases vary sharply by rating area and by carrier, meaning where you live will matter just as much as who you buy insurance from.
+
+Below is a clear, organized view of the increases we currently have — followed by what’s missing.
+
+
+---
+
+🗺️ How Pennsylvania Is Divided
+
+Pennsylvania has 9 ACA rating areas.
+Each area groups counties with similar healthcare cost structures.
+
+We currently have data for Areas 1, 3, 4, 6, and 8.
+
+> Missing from this dataset:
+Areas 2, 5, 7, and 9
+
+
+
+Those areas cover large parts of central, south-central, and western PA, so this is not a small omission.
+
+
+---
+
+📊 2026 Approved Rate Increases by Area
+
+🟦 Rating Area 1
+
+Counties: Erie, Crawford, Mercer
+
+Carrier	2026 Increase
+
+Highmark Coverage Advantage	14.5%
+UPMC Health Options	20.2%
+
+
+What it means:
+Highmark is keeping price growth much lower than UPMC in northwest PA.
+
+
+---
+
+🟦 Rating Area 3
+
+Counties: Lackawanna, Luzerne
+
+Carrier	2026 Increase
+
+Geisinger Health Plan	11.6%
+Oscar Health	23.1%
+
+
+What it means:
+Geisinger is the best price stabilizer in the state. Oscar is more than double Geisinger’s increase.
+
+
+---
+
+🟦 Rating Area 4
+
+Counties: Allegheny, Beaver, Westmoreland
+
+Carrier	2026 Increase
+
+Highmark Inc.	17.7%
+UPMC Health Options	20.2%
+
+
+What it means:
+Even in UPMC’s home market, Highmark remains cheaper on growth.
+
+
+---
+
+🟦 Rating Area 6
+
+Counties: Lehigh, Northampton, Centre
+
+Carrier	2026 Increase
+
+Highmark Inc.	17.7%
+Capital Advantage Assurance	24.6%
+
+
+What it means:
+Capital Advantage is becoming one of the fastest-inflating carriers in PA.
+
+
+---
+
+🟦 Rating Area 8
+
+Counties: Philadelphia, Bucks, Chester
+
+Carrier	2026 Increase
+
+Keystone Health Plan East (IBX)	22.0%
+Ambetter	37.8%
+
+
+What it means:
+Philadelphia suburbs will be the most expensive ACA market in PA in 2026 — especially for Ambetter members.
+
+
+---
+
+💰 What This Means in Dollars
+
+If you paid $600 per month in 2025, here’s what 2026 looks like:
+
+Carrier	Increase	New Monthly Cost
+
+Geisinger	11.6%	$669
+Highmark	17.7%	$706
+UPMC	20.2%	$721
+IBX	22.0%	$732
+Oscar	23.1%	$739
+Capital Advantage	24.6%	$748
+Ambetter	37.8%	$827
+
+
+That’s a $2,700 per year difference between Geisinger and Ambetter on the same base plan.
+
+
+---
+
+🧭 Big Picture Trends
+
+1️⃣ Philadelphia is the epicenter of price inflation
+
+Ambetter nearly +40%
+
+IBX over +22% Urban healthcare costs + hospital consolidation are driving this.
+
+
+2️⃣ UPMC consistently costs more than Highmark
+
+In both western PA regions:
+
+Area 1: UPMC +20.2% vs Highmark +14.5%
+
+Area 4: UPMC +20.2% vs Highmark +17.7%
+
+
+3️⃣ Geisinger is PA’s pricing anchor
+
+Geisinger’s 11.6% is the lowest increase anywhere in this dataset.
+
+4️⃣ Capital Advantage is becoming high-risk for consumers
+
+At 24.6%, it’s now priced closer to Oscar and IBX than Highmark.
+
+
+---
+
+⚠️ What’s Missing (and Why It Matters)
+
+Pennsylvania has 9 ACA rating areas.
+We only have data for 5.
+
+Missing:
+
+Area 2
+
+Area 5
+
+Area 7
+
+Area 9
+
+
+These include:
+
+Harrisburg
+
+York
+
+Lancaster
+
+State College
+
+Central PA
+
+Parts of western rural PA
+
+
+Without them, we can’t yet:
+
+Identify statewide cheapest carriers
+
+See if rural areas are being hit harder
+
+Compare UPMC vs Highmark statewide
+
+
+
+---
+
+If you’d like, next I can:
+
+Reconstruct the full 9-area map, or
+
+Estimate which of the missing areas are likely to spike next, or
+
+Help you turn this into a visual chart for publication
+
+
+Just tell me what you want next.
